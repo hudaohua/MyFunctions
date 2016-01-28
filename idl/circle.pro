@@ -2,7 +2,8 @@
 
 function circle_area, radius
   area = 0
-  return, area
+; add something
+	return, area
 end
 
 function circle_circunference, radius

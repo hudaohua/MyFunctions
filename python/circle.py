@@ -1,7 +1,8 @@
 ''' Functions from http://math2.org/math/geometry/circles.htm '''
 
 def circle_area(radius=1):
-    pass
+	return 3.14*radius**2
+	pass
 
 def circle_circunference(radius=1):
     pass
