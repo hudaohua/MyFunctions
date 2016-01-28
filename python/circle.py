@@ -2,10 +2,11 @@
 ' add something forrealpi '
 
 def circle_area(radius=1):
-	return 3.1415926*radius**2
+	return np.pi*radius**2
 	pass
 
 def circle_circunference(radius=1):
+    return np.pi*2*radius
     pass
 
 def circle_length_arc(radius, angle):
